@@ -33,7 +33,9 @@ body{
     margin-top: 20px;
     margin-bottom: 20px;
 }
-
+.screen{
+    font-size:5rem;
+}
 .card-body{
     height: min-content;
     width: auto;
@@ -51,6 +53,9 @@ body{
 } 
 @media only screen and (max-width:767px)
 {
+    .screen{
+        font-size:3rem;
+    }
     .card{
        margin-left: 10px;
        margin-right: 10px;
