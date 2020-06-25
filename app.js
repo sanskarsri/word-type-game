@@ -78,7 +78,7 @@ const words = [
   "Magic",              "Ambiguous",
   "Nutrition",          "Autotomy",
   "Laughter",           "Bleeding",
-  "Smile",              "Chad",
+  "Smile",              "Flip",
   "Permanent",          "Dotish",
   "Trial",              "Erf",
   "Instructions",       "Fipple",
